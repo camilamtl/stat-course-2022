@@ -10,3 +10,4 @@ gitcreds::gitcreds_set()
 
 gitcreds::gitcreds_get()
 usethis::use_github()
+sd(x)
